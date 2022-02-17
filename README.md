@@ -31,4 +31,4 @@ Yeah, I set the most repos to private.
 
 [![yuu-chan-baka's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuu-chan-baka&theme=dracula&show_icons=true)](https://github.com/yuu-chan-baka/github-readme-stats)
 
-![Language most](https://github-readme-stats.vercel.app/api/top-langs/?username=yuu-chan-baka&theme=dracula)
+![Language most](https://github-readme-stats.vercel.app/api/top-langs/?username=yuu-chan-baka&show_icons=true&theme=dracula)
