@@ -2,7 +2,7 @@
 # Hi there!👋 
 
 ## About me
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2300F737&lines=Hi%2C+I'm+FuyukoUxU+%F0%9F%91%8B;Discord+Me%3A+Siticone.reg%239999;I'm+Discord.js+Coder;I+know+a+little+about+C%23+and+Html;Contact+me+to+buy+RegeditVN's+products)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2300F737&lines=Hi%2C+I'm+FuyukoUxU+%F0%9F%91%8B;Discord+Me%3A+FuyukoUxU%233145;I'm+Discord.js+Coder;I+know+a+little+about+C%23+and+Html;Contact+me+to+buy+RegeditVN's+products)](https://git.io/typing-svg)
 - Student
 - Code just for fun
 - From: Vietnam
