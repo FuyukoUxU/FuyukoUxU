@@ -2,7 +2,7 @@
 <div>
 <img src="https://cdn.discordapp.com/attachments/820557032016969751/1056417085200289832/Profile.png" width="300" align="right" />
 <br/>
-<img src="https://media.discordapp.net/attachments/1081267839647875122/1081665655494955028/photo_2023-03-05_02-50-20.png" width="600" />
+<img src="https://media.discordapp.net/attachments/1081267839647875122/1081665655494955028/photo_2023-03-05_02-50-20.png" width="650" />
 <br/>
 <br/>
   
