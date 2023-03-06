@@ -3,7 +3,9 @@
 <img src="https://media.discordapp.net/attachments/1081267839647875122/1082354399403331644/photo_2023-03-05_02-50-20.png?width=1024&height=166" width="800" />
 <br/>
 <br/>
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36FF00&width=435&lines=Hi+there!%F0%9F%91%8B+I'm+Fuyuko;Welcome+to+my+profile+%3AD;Contact++on+Discord%3A+%40FuyukoUxU%233145;Contact+on+Telegram%3A+%40FuyukoUxU)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36FF00&width=435&lines=Hi+there!%F0%9F%91%8B+I'm+Fuyuko;Welcome+to+my+profile+%3AD;Contact++on+Discord%3A+%40FuyukoUxU%233145;Contact+on+Telegram%3A+%40FuyukoUxU)](https://git.io/typing-svg)
+
 - <img src="https://cdn.discordapp.com/attachments/820557032016969751/952436539118456882/flag-vietnam_1f1fb-1f1f3.png" alt="." width="16" height="16"/> Student from Vietnam  
 - <img src="https://cdn.discordapp.com/emojis/952436840730861638.png" alt="." width="16" height="16"/> Discord.js Coder
 - <img src="https://cdn.discordapp.com/emojis/912296822939193374.gif" alt="."  width="16" height="16" /> I am 1x years old.
