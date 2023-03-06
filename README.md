@@ -26,7 +26,7 @@
 <br/>
 <p align="left">
   <a href="/">
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FuyukoUxU&show_icons=true&theme=dracula" />
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=FuyukoUxU&theme=dracula&show_icons=true" />
     <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=FuyukoUxU&theme=dracula&hide_border=true" />
   </a>
 </p>
