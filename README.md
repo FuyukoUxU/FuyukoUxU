@@ -24,15 +24,24 @@
   </a>
 
 ## My stats:
-
-<br/>
-<p align="left">
-  <a href="/">
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=FuyukoUxU&theme=dracula&show_icons=true" />
-    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=FuyukoUxU&theme=dracula&hide_border=true" />
-  </a>
-</p>
+<div align=center>
+    <img
+        width="396"
+        src="https://streak-stats.demolab.com?user=FuyukoUxU&theme=dracula&locale=vi&date_format=j%2Fn%5B%2FY%5D"
+    />
+    <img
+        width="396"
+        src="https://github-readme-stats.vercel.app/api?username=FuyukoUxU&show_icons=true&theme=dracula"
+    />
+</div>
 <br>
+<br>
+<div align=center>
+    <img
+        width="396"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=FuyukoUxU&show_icons=true&theme=dracula&layout=compact"
+    />
+</div>
 
 ## Commits
 
