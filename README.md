@@ -40,7 +40,7 @@
 | Project | Highlights & Architecture | Tech Stack | Link |
 | :--- | :--- | :--- | :---: |
 | **🎬 LyngFlix** | A responsive movie & media streaming platform deployed on a Linux VPS with optimized media delivery and Nginx reverse proxy. | `Next.js` `Node.js`<br/>`Nginx` `Docker` | [Visit](https://lyngflix.id.vn) |
-| **🎓 LyngEdu** | An educational workspace designed for students to organize coursework, query study resources, and manage academic routines. | `React` `Tailwind CSS`<br/>`REST APIs` `Netlify` | [Visit](https://lyngedu.netlify.app) |
+| **🎓 LyngEdu** | An educational workspace designed for students to organize coursework, query study resources, and manage academic routines. | `React` `Tailwind CSS`<br/>`REST APIs`| [Visit](https://lyngedu.netlify.app) |
 
 ---
 
