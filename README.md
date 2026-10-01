@@ -1,53 +1,43 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C2BD9,100:9B59B6&height=200&section=header&text=FuyukoUxU&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%" />
+<!-- Header Dynamic Waving Wave -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4C1D95,50:7C3AED,100:C084FC&height=220&section=header&text=FuyukoUxU&fontSize=68&fontColor=ffffff&animation=fadeIn&fontAlignY=36" width="100%" />
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=9B59B6&center=true&vCenter=true&width=620&lines=Software+Engineering+Student;Full-Stack+Web+Developer;Founder+of+LyngFlix+%26+LyngEdu;Building+performant+web+experiences." />
+<!-- Typing Intro -->
+<a href="https://github.com/FuyukoUxU">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1200&color=C084FC&center=true&vCenter=true&width=650&lines=Software+Engineering+Student+%F0%9F%8E%93;Full-Stack+Architect+%26+Builder+%E2%9A%A1;Crafting+LyngFlix+%26+LyngEdu+%E2%9C%A8;Obsessed+with+clean+code+%26+performance." />
 </a>
 
 <br/><br/>
 
-<a href="https://lyngflix.id.vn">
-  <img src="https://img.shields.io/badge/LyngFlix-Live_Demo-6C2BD9?style=for-the-badge&logo=googlechrome&logoColor=white" />
+<!-- Fast Navigation Badges -->
+<a href="https://lyngflix.id.vn" target="_blank">
+  <img src="https://img.shields.io/badge/LyngFlix-0D1117?style=for-the-badge&logo=firefox&logoColor=A855F7&labelColor=161B22&color=6D28D9" />
 </a>
-<a href="https://lyngedu.netlify.app">
-  <img src="https://img.shields.io/badge/LyngEdu-Live_Demo-8E44AD?style=for-the-badge&logo=googleclassroom&logoColor=white" />
+&nbsp;
+<a href="https://lyngedu.netlify.app" target="_blank">
+  <img src="https://img.shields.io/badge/LyngEdu-0D1117?style=for-the-badge&logo=safari&logoColor=C084FC&labelColor=161B22&color=7C3AED" />
 </a>
+&nbsp;
 <a href="https://github.com/FuyukoUxU">
-  <img src="https://img.shields.io/github/followers/FuyukoUxU?style=for-the-badge&label=Followers&color=6C2BD9" />
+  <img src="https://img.shields.io/github/followers/FuyukoUxU?style=for-the-badge&label=Followers&labelColor=161B22&color=9333EA" />
 </a>
 
 </div>
 
----
+<br/>
 
-### 👨‍💻 About Me
+<table align="center" width="100%">
+<tr>
+<td>
 
-```ts
-interface Developer {
-  name: string;
-  username: string;
-  role: string;
-  location: string;
-  focus: string[];
-  projects: Record<string, string>;
-}
+### 🌌 // Profile Matrix
 
-const viet: Developer = {
-  name: "Huỳnh Minh Việt",
-  username: "FuyukoUxU",
-  role: "Software Engineering Student & Full-Stack Developer",
-  location: "Vietnam 🇻🇳",
-
-  focus: [
-    "High-performance Web Architecture",
-    "Server Infrastructure & Cloudflare Tunnels",
-    "Self-hosted Platforms & VPS Deployment"
-  ],
-
-  projects: {
-    LyngFlix: "Movie & media streaming platform",
-    LyngEdu: "Interactive educational study web app"
-  }
+```typescript
+const developer: Identity = {
+  codename  : "FuyukoUxU",
+  origin    : "Vietnam 🇻🇳",
+  major     : "Software Engineering",
+  passion   : ["High-Concurrency", "Minimalist Architecture", "Edge Systems"],
+  mission   : "Turning caffeine into scalable software solutions"
 };
