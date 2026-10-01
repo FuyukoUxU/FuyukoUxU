@@ -24,14 +24,14 @@
 
 ---
 
-### 🚀 Projects
+### 🚀 Featured Projects
 
-* **🎬 [LyngFlix](https://lyngflix.id.vn)** — Responsive media streaming web application built for a seamless user experience.  
+* **🎬 [LyngFlix](https://lyngflix.id.vn)** — A fast, ad-free streaming web app built for high stability and smooth cross-device viewing with automated server failover and continuous catalog updates.  
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
 
-* **🎓 [LyngEdu](https://lyngedu.netlify.app)** — Lightweight academic workspace designed for students to organize coursework and study resources efficiently.  
+* **🎓 [LyngEdu](https://lyngedu.netlify.app)** — An all-in-one free educational hub hosting 109+ courses, 2,700+ study materials, and curated exam prep (THPTQG, HSA, TSA, V-ACT, SPT) from 30+ educators without ads.  
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
