@@ -30,7 +30,6 @@ interface Developer {
   username: string;
   role: string;
   location: string;
-  stack: string[];
   focus: string[];
   projects: Record<string, string>;
 }
@@ -41,15 +40,10 @@ const viet: Developer = {
   role: "Software Engineering Student & Full-Stack Developer",
   location: "Vietnam 🇻🇳",
 
-  stack: [
-    "Next.js", "React", "TypeScript", 
-    "Java", "Tailwind CSS", "Docker", "Nginx"
-  ],
-
   focus: [
     "High-performance Web Architecture",
-    "Server Optimization & Cloudflare Tunnels",
-    "Self-hosted Solutions"
+    "Server Infrastructure & Cloudflare Tunnels",
+    "Self-hosted Platforms & VPS Deployment"
   ],
 
   projects: {
